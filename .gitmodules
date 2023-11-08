@@ -1,0 +1,3 @@
+[submodule "node_modules/.cache/gh-pages/https!github.com!jonashoft!portfolio.git"]
+    path = node_modules/.cache/gh-pages/https!github.com!jonashoft!portfolio.git
+    url = git://github.com/jonashoft/portfolio.git
